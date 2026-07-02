@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img src="3b878053e0023bacf3ddff9bce1c477e.gif">
+  <img src="https://raw.githubusercontent.com/annaczarinaa/annaczarinaa/refs/heads/main/3b878053e0023bacf3ddff9bce1c477e.gif">
 </p>
 
 ## About Me
